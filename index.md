@@ -25,12 +25,10 @@
 ![map1](https://github.com/AkshitaSaini97/BurlingtonMap/assets/152640805/775fe1ce-b996-4373-82f5-b91122ea60b3)
 
 ## Spatial Distribution of Essential Services in relation to median income and potentially disadvantaged population
-<iframe src='map2.jpeg' width = '900' height = '900' ></iframe>
 ![map2](https://github.com/AkshitaSaini97/BurlingtonMap/assets/152640805/29fa13b7-c633-41ad-bcdb-ca12bdd57752)
 
 ## Spatial Distribution of Transit service area in relation to median income and potentially disadvantaged population
 ![map3](https://github.com/AkshitaSaini97/BurlingtonMap/assets/152640805/b2468a77-277e-4c51-b885-c106bd66850b)
-<iframe src='map3.jpeg' width = '900' height = '1800' ></iframe>
 
 ## Interactive map to view the type of services and coverage of transit service area in Burlington County
 <iframe src='interactive_map.html' width = '900' height = '900' ></iframe>
