@@ -1,8 +1,7 @@
-![map2](https://github.com/AkshitaSaini97/BurlingtonMap/assets/152640805/75c5a9a0-e443-48c1-8437-e8d371fa6e88)# Understanding Accessibility
-## ___________________________________________________________________________________________________________________________________________
+# Understanding Accessibility
+## _________________________________________________________________________________________________________________________
 ## By Akshita Saini (MCRP), Edward J Bloustein School of Planning and Public Policy, Rutgers University 
 (This is the final project for the course: Command Line GIS)
-______________________________________________________________________________________________________________________________________________
 
 ### Research Question: Are the essential services and transit area (0.5 mile as walkable distance) distributed equitably? Are they located in areas with population potentially at disadvantage and low-income census tracts?
 ### Objective: To map the spatial distribution of essential services and transit area in Burlington County and overlay it over median income and indicators of potential disadvantage at census tract level
@@ -23,7 +22,6 @@ ________________________________________________________________________________
   First, all the transit datasets are converted into dataframes and their crs is changed to njsp. Finally they are all merged into one geodataframe     using union (overlay function). To create a transit area of 0.5 mile - buffer function is used around all the transit stops and unary union is used   to dissolve all the buffers into one.
 
 ## Spatial distribution of median income and potential disadvantaged population
-<iframe src='map1.jpeg' width = '900' height = '900' ></iframe>
 ![map1](https://github.com/AkshitaSaini97/BurlingtonMap/assets/152640805/775fe1ce-b996-4373-82f5-b91122ea60b3)
 
 ## Spatial Distribution of Essential Services in relation to median income and potentially disadvantaged population
